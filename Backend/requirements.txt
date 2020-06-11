@@ -1,0 +1,3 @@
+newspaper3k
+firebase-admin
+langdetect
